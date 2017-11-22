@@ -1,0 +1,66 @@
+body {
+	background-color: #5586BF;
+	margin: 0;
+}
+
+#main {
+	background-color: #5F8DC3;
+	width: 800px;
+	margin: 0 20px;
+}
+
+#header {
+	float: left;
+	width: 800px;
+}
+
+#orflogo {
+	padding: 20px 90px;
+	float: left;
+}
+
+#wetter {
+	padding: 25px 0;
+	float: left;
+	color: white;
+	font-family: Arial;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+#logorechts {
+	padding: 10px 0px 10px 210px;
+	float: left;
+}
+
+#nav {
+	background-color: #4571A1;
+	float: left;
+	width: 800px;
+}
+
+#nav ul {
+	list-style: none;
+	margin: 0;
+	width: 100%;
+}
+
+#nav ul li {
+	float: left;
+
+}
+
+#nav a {
+	color: white;
+	font-family: Arial;
+	font-size: 13px;
+	font-weight: bold;
+	text-decoration: none;
+	padding: 3px 10px;
+}
+
+#nav a:hover {
+	text-decoration: underline;
+	color: #CCCCDD;
+}
+
