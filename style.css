@@ -2,19 +2,7 @@ div {
 	border: 2px solid #993333;
 	margin: 5px;
 }
-#third > p {
-	visibility: hidden;
-}
 
-h1 { 
-	visibility: hidden;
+#first p {
+	font-size: 1.5em;
 }
-
-#second .right {
-	visibility: hidden;
-}
-
- img {
- 	visibility: visible;
- }
- 
