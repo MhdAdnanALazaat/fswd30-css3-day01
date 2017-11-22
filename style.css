@@ -1,0 +1,20 @@
+div {
+	border: 2px solid #993333;
+	margin: 5px;
+}
+#third > p {
+	visibility: hidden;
+}
+
+h1 { 
+	visibility: hidden;
+}
+
+#second .right {
+	visibility: hidden;
+}
+
+ img {
+ 	visibility: visible;
+ }
+ 
